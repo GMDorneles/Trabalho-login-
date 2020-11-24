@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "694940971214",
+    "firebase_url": "https://tentativalogin-30c43.firebaseio.com",
+    "project_id": "tentativalogin-30c43",
+    "storage_bucket": "tentativalogin-30c43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:694940971214:android:5a51d32620a38602ab609f",
+        "android_client_info": {
+          "package_name": "br.trabalho.testedelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "694940971214-peaj7ie7vppg5pi5fr0bvg58m2afi82h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.trabalho.testedelogin",
+            "certificate_hash": "b081aae7ac48c36a11e4cea3c5f3370a5c5c3c07"
+          }
+        },
+        {
+          "client_id": "694940971214-ffh71d0qogdmkabt4ke9eslnohfkv3io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2raZaTcA8IX_mnwzIiy_P0YE0bRCKpFI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "694940971214-ffh71d0qogdmkabt4ke9eslnohfkv3io.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

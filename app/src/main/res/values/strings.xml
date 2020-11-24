@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TesteDeLogin</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="Senha">Senha</string>
+    <string name="Logar">Logar</string>
+    <string name="Novo">Novo</string>
+    <string name="Cadastro">Cadastro</string>
+    <string name="DigiteEmail">Digite seu email</string>
+    <string name="DigiteSenha">Digite sua senha</string>
+    <string name="Registrar">Registrar</string>
+    <string name="Voltar">Voltar</string>
+    <string name="Perfil">Perfil</string>
+    <string name="PerfilEmail">PerfilEmail</string>
+    <string name="PerfilId">PerfilId</string>
+    <string name="Logout">Logout</string>
+    <string name="Controle">Controle de Livros</string>
+    <string name="Acessar">Acessar Conta</string>
+</resources>
